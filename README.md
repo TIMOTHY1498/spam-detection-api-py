@@ -15,6 +15,7 @@ First install all the required package via pip
 - nltk
 - fastapi
 - pydantic
+- fastapi
 
 Second, download the source code via this github page
 

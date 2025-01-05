@@ -51,5 +51,5 @@ And the API will respond:
 
 Credits to:
 
-- Microsofft Copilot
+- Microsoft Copilot
 - Me (TIMOTHY1498)

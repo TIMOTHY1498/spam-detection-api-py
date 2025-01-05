@@ -31,7 +31,7 @@ You need to change the dataset for training. You can change the hosted training 
 url = '' # List message that used for the AI Training, please use your own!
 ```
 
-By the way, the hosted API link is `23.88.73.88:35922`
+By the way, the hosted API link is `23.88.73.88:35922`\n
 To use the API, Create a post request as same as this example: 
 
 ```json

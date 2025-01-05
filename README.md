@@ -13,7 +13,7 @@ First install all the required package via pip
 - pandas
 - sklearn
 - nltk
-- fastapi
+- uvicorn
 - pydantic
 - fastapi
 

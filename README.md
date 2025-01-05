@@ -25,6 +25,11 @@ uvicorn main:app --reload
 ```
 
 ## Usage
+⚠️ **Disclaimer**
+You need to change the dataset for training. You can change the hosted training data link via:
+```py
+url = '' # List message that used for the AI Training, please use your own!
+```
 
 To use the API, Create a post request as same as this example:
 
